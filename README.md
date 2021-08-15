@@ -1,5 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+## Overview
+The primary analyst at AutosRUs, Jeremy, was tasked with analyzing the production data for a new car prototype, MechaCar.  The prototype is suffering from production issues, which are hindering the manufacturing team's progress.  Using the provided production data, I was tasked with discovering what variables affect the prototype's MPG and whether the suspension coils were being produced consistently within and between car lots.
+
 ## Results
 
 ### Linear Regression to Predict MPG
