@@ -28,20 +28,20 @@ To determine whether the weight capacities of cars across lots is consistent, I 
 To determine whether any of the lots have a significantly different carrying capacity from the expected population mean of 1500 PSI, I performed a series of t-tests.  While assuming a significance threshold of 0.05, the following was determined:
 -	There is no significant difference between the average PSI the suspension coil can support for all lots, or lots 1 and 2 individually and the population (see **Figs 2-4**).  There is a significant difference between lot 3 and the population (**Fig 5**).
 
-**Figure 2:** T-test for all lots combined versus the expected population mean of 1500
-
 ![total-ttest](resources/total_ttest.png)
 
-**Figure 3:** T-test for lot 1 versus the expected population mean of 1500
+**Figure 2:** T-test for all lots combined versus the expected population mean of 1500
 
 ![lot1-ttest](resources/lot1_ttest.png)
 
-**Figure 4:** T-test lot 2 versus the expected population mean of 1500
+**Figure 3:** T-test for lot 1 versus the expected population mean of 1500
 
 ![lot2-ttest](resources/lot2_ttest.png)
 
-**Figure 5:** T-test for lot 3 versus the expected population mean of 1500
+**Figure 4:** T-test lot 2 versus the expected population mean of 1500
 
 ![lot3-ttest](resources/lot3_ttest.png)
+
+**Figure 5:** T-test for lot 3 versus the expected population mean of 1500
 
 
